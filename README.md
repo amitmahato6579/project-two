@@ -1,4 +1,4 @@
 # project-two
 This is my first repository.
 <br>
-Author- Amit Mahato
+Author- Amit Mahato(kumar)
